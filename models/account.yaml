@@ -1,0 +1,12 @@
+title: account
+type: object
+properties:
+  id:
+    type: string
+  dateFrom:
+    type: string
+    format: date
+  dateTo:
+    type: string
+    format: date
+
